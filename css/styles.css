@@ -1,0 +1,31 @@
+body {
+  background-color: grey;
+}
+h1, h3 {
+  color: #66BFBF;
+}
+
+kbd {
+  border-radius: 3px;
+padding: 1px 2px 0;
+border: 1px solid black;
+   }
+
+hr {
+
+  border-color: purple;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 5%;
+}
+img{
+  height: 175px;
+  border-radius: 80%;
+}
+.intro img {
+  align-items: center;
+}
+.intro table {
+  align-items: center;
+}
